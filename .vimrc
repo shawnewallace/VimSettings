@@ -1,6 +1,9 @@
 " * General Settings
 scriptencoding utf-8
 
+" select like windows
+behave mswin
+
 colorscheme blackboard
 
 set lines=50 columns=150

@@ -1,6 +1,9 @@
 " Set the guifont
   set guifont=Monospace\ Medium\ 9 
 
+" select like windows
+behave mswin
+
 " Don't focus the window when the mouse pointer is moved.
   set nomousefocus
 
